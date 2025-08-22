@@ -52,3 +52,4 @@ We aim to bridge traditional casino gaming with blockchain technology, providing
 
 *Contract deployment information will be updated here upon mainnet deployment.*
 ST3VBDWHZDA906MR79NWDQQGGCZ49MQVEB9F0Z86Q.DiceGameContract
+![alt text](image.png)
